@@ -43,7 +43,7 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem "wysiwyg-rails"
 gem 'public_activity', '~> 1.5'
 # gem 'bootsnap', require: false
-gem 'sqlite3'
+gem 'pg'
 gem 'font-awesome-sass', '~> 5.13.0'
 
 group :development, :test do
